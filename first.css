@@ -1,0 +1,52 @@
+h1
+{
+    color : red;
+    text-decoration: underline cadetblue ;
+    text_align: center;
+    font_size: 50px;
+}
+
+.profile{
+    padding-left: 30px;
+}
+
+.profile h2{
+    color: blueviolet;
+    font-size: 30px;
+    border: 2px salmon solid;
+    border-radius: 10px;
+
+}
+
+.profile p{
+    font-size: 18px;
+}
+
+.skills h2{
+    font-size: 30px;
+    font-weight:600;
+    color: crimson;
+}
+
+.skilss u1 li{
+    list-style: square;
+    font-weight: 18px;
+    color: chocolate;
+
+}
+
+.projects{
+    padding: 10px,30px;
+}
+
+.projects h2{
+    color:cadeblue;
+    brder: 2px solid black;
+    border-radius: 5px;
+    font-size: 30px;
+    
+}
+
+.projects h3{
+    
+}
